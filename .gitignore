@@ -154,3 +154,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/fw_st.sln.ide/edb.chk
+/fw_st.sln.ide/edbres00002.jrs
+/fw_st.sln.ide/edbres00001.jrs
+/fw_st.sln.ide/storage.ide
